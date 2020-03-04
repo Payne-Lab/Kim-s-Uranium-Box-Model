@@ -1,5 +1,4 @@
-#Forward box model to explore alterative forcings on U systematics
-#by Kimberly Lau
+plot(x,y)
 
 library(Hmisc)
 
